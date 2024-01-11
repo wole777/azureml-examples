@@ -26,7 +26,7 @@ az extension add -n ml -y
 ## For backward compatibility - running on old subscription
 # <set_variables>
 GROUP="mldevops-demo"
-LOCATION="UK South"
+LOCATION="uksouth"
 WORKSPACE="mldevops-demo-workspace"
 # </set_variables>
 
